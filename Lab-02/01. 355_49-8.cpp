@@ -1,5 +1,5 @@
 //Codeforce
-//Problem No : 158A
+//Problem No : 231A
 //Problem Name : Team
 
 #include <iostream>
