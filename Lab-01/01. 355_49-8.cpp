@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No:4A
 //Problem Name : Watermelon
 
