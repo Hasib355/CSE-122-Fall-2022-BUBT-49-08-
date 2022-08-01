@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No: 71A
 //Problem Name : Way Too Long Words
 
