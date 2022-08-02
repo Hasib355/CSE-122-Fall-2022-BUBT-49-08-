@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 263A
 //Problem Name : Beautiful Matrix
 
