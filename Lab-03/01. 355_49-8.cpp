@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 282A
 //Problem Name : Bit++
 
