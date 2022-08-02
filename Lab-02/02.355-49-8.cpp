@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 // Problem No :158A
 //Problem Name : Next Round
 
