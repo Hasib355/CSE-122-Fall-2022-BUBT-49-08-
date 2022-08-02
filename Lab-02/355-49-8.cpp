@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 50A
 //Problem Name : Domino piling
 #include<stdio.h>
