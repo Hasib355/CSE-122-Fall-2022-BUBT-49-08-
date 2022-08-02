@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 231A
 //Problem Name : Team
 
