@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 112A
 //Problem Name : Petya and Strings
 
