@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 236A
 //Problem Name : Boy or Girl
 
