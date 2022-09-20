@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 281A
 //Problem Name : Word Capitalization
 
