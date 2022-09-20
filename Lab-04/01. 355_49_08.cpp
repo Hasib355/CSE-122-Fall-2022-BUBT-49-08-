@@ -1,4 +1,4 @@
-//Codeforce
+//Codeforces
 //Problem No : 339A
 //Problem Name : Helpful Maths
 
